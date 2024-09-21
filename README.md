@@ -1,8 +1,6 @@
 # Taskify
 
-Create a Full-Stack Task Management Application.
-
-### Note: Try to do it by yourself.
+Full-Stack Task Management Application.
 
 ### Setup Guide
 
